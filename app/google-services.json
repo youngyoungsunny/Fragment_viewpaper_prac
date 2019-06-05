@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "562774950186",
+    "firebase_url": "https://likelion0605.firebaseio.com",
+    "project_id": "likelion0605",
+    "storage_bucket": "likelion0605.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562774950186:android:686e0e77f660a427",
+        "android_client_info": {
+          "package_name": "com.smu.fragment_viewpaper_prac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562774950186-hm5frsq6ctftgaluernvmohete1gqcu8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smu.fragment_viewpaper_prac",
+            "certificate_hash": "4f254a12e9a468518c823d43a79a8133bd9ac993"
+          }
+        },
+        {
+          "client_id": "562774950186-ogj008ukmeui0f595pqio74cu393g9vc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlqcghI5XX_ZByDEWk-I2O8WhMLwUoJFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562774950186-ogj008ukmeui0f595pqio74cu393g9vc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
